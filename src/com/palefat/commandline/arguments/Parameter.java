@@ -1,3 +1,4 @@
+package com.palefat.commandline.arguments;
 
 public class Parameter {
 

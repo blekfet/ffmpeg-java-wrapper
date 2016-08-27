@@ -1,3 +1,4 @@
+package com.palefat.commandline.arguments;
 import java.util.List;
 
 public class ListParameter<T> extends Parameter {
